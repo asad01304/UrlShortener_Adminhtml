@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <UrlShortener_CustomRewrite>
+            <active>true</active>
+            <codePool>local</codePool>
+        </UrlShortener_CustomRewrite>
+    </modules>
+</config>
